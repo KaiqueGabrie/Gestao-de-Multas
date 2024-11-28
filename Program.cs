@@ -1,4 +1,6 @@
-﻿Veiculos v = new Veiculos();
+﻿using GestaodeMultas271124.Entidades;
+
+Veiculos v = new Veiculos();
 
 Console.WriteLine("Informe o id do veículo: ");
 v._idVeiculo = Convert.ToInt32(Console.ReadLine());
