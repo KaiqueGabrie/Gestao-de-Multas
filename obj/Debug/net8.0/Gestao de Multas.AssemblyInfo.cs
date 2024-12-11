@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Gestao de Multas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+58b6acb79685a14fba690f84004d334599c48951")]
 [assembly: System.Reflection.AssemblyProductAttribute("Gestao de Multas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Gestao de Multas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

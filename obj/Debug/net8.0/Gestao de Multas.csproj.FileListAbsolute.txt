@@ -1,0 +1,15 @@
+C:\Users\2023202060015\OneDrive - ifro.edu.br\3 -- Periodo\Programação orientada a objetos\Gestao de Multas\bin\Debug\net8.0\Gestao de Multas.exe
+C:\Users\2023202060015\OneDrive - ifro.edu.br\3 -- Periodo\Programação orientada a objetos\Gestao de Multas\bin\Debug\net8.0\Gestao de Multas.deps.json
+C:\Users\2023202060015\OneDrive - ifro.edu.br\3 -- Periodo\Programação orientada a objetos\Gestao de Multas\bin\Debug\net8.0\Gestao de Multas.runtimeconfig.json
+C:\Users\2023202060015\OneDrive - ifro.edu.br\3 -- Periodo\Programação orientada a objetos\Gestao de Multas\bin\Debug\net8.0\Gestao de Multas.dll
+C:\Users\2023202060015\OneDrive - ifro.edu.br\3 -- Periodo\Programação orientada a objetos\Gestao de Multas\bin\Debug\net8.0\Gestao de Multas.pdb
+C:\Users\2023202060015\OneDrive - ifro.edu.br\3 -- Periodo\Programação orientada a objetos\Gestao de Multas\obj\Debug\net8.0\Gestao de Multas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2023202060015\OneDrive - ifro.edu.br\3 -- Periodo\Programação orientada a objetos\Gestao de Multas\obj\Debug\net8.0\Gestao de Multas.AssemblyInfoInputs.cache
+C:\Users\2023202060015\OneDrive - ifro.edu.br\3 -- Periodo\Programação orientada a objetos\Gestao de Multas\obj\Debug\net8.0\Gestao de Multas.AssemblyInfo.cs
+C:\Users\2023202060015\OneDrive - ifro.edu.br\3 -- Periodo\Programação orientada a objetos\Gestao de Multas\obj\Debug\net8.0\Gestao de Multas.csproj.CoreCompileInputs.cache
+C:\Users\2023202060015\OneDrive - ifro.edu.br\3 -- Periodo\Programação orientada a objetos\Gestao de Multas\obj\Debug\net8.0\Gestao de Multas.sourcelink.json
+C:\Users\2023202060015\OneDrive - ifro.edu.br\3 -- Periodo\Programação orientada a objetos\Gestao de Multas\obj\Debug\net8.0\Gestao de Multas.dll
+C:\Users\2023202060015\OneDrive - ifro.edu.br\3 -- Periodo\Programação orientada a objetos\Gestao de Multas\obj\Debug\net8.0\refint\Gestao de Multas.dll
+C:\Users\2023202060015\OneDrive - ifro.edu.br\3 -- Periodo\Programação orientada a objetos\Gestao de Multas\obj\Debug\net8.0\Gestao de Multas.pdb
+C:\Users\2023202060015\OneDrive - ifro.edu.br\3 -- Periodo\Programação orientada a objetos\Gestao de Multas\obj\Debug\net8.0\Gestao de Multas.genruntimeconfig.cache
+C:\Users\2023202060015\OneDrive - ifro.edu.br\3 -- Periodo\Programação orientada a objetos\Gestao de Multas\obj\Debug\net8.0\ref\Gestao de Multas.dll

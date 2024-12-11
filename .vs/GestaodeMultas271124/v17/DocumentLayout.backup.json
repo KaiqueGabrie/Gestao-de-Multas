@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2023202060015\\OneDrive - ifro.edu.br\\3 -- Periodo\\Programa\u00E7\u00E3o orientada a objetos\\Gestao de Multas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4D04966-D3CB-494E-B6CD-31D98F7C6951}|Gestao de Multas.csproj|c:\\users\\2023202060015\\onedrive - ifro.edu.br\\3 -- periodo\\programa\u00E7\u00E3o orientada a objetos\\gestao de multas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4D04966-D3CB-494E-B6CD-31D98F7C6951}|Gestao de Multas.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4D04966-D3CB-494E-B6CD-31D98F7C6951}|Gestao de Multas.csproj|c:\\users\\2023202060015\\onedrive - ifro.edu.br\\3 -- periodo\\programa\u00E7\u00E3o orientada a objetos\\gestao de multas\\entidades\\proprietarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4D04966-D3CB-494E-B6CD-31D98F7C6951}|Gestao de Multas.csproj|solutionrelative:entidades\\proprietarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4D04966-D3CB-494E-B6CD-31D98F7C6951}|Gestao de Multas.csproj|c:\\users\\2023202060015\\onedrive - ifro.edu.br\\3 -- periodo\\programa\u00E7\u00E3o orientada a objetos\\gestao de multas\\entidades\\veiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4D04966-D3CB-494E-B6CD-31D98F7C6951}|Gestao de Multas.csproj|solutionrelative:entidades\\veiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4D04966-D3CB-494E-B6CD-31D98F7C6951}|Gestao de Multas.csproj|c:\\users\\2023202060015\\onedrive - ifro.edu.br\\3 -- periodo\\programa\u00E7\u00E3o orientada a objetos\\gestao de multas\\entidades\\vistoriadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4D04966-D3CB-494E-B6CD-31D98F7C6951}|Gestao de Multas.csproj|solutionrelative:entidades\\vistoriadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4D04966-D3CB-494E-B6CD-31D98F7C6951}|Gestao de Multas.csproj|c:\\users\\2023202060015\\onedrive - ifro.edu.br\\3 -- periodo\\programa\u00E7\u00E3o orientada a objetos\\gestao de multas\\entidades\\vistorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4D04966-D3CB-494E-B6CD-31D98F7C6951}|Gestao de Multas.csproj|solutionrelative:entidades\\vistorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4D04966-D3CB-494E-B6CD-31D98F7C6951}|Gestao de Multas.csproj|c:\\users\\2023202060015\\onedrive - ifro.edu.br\\3 -- periodo\\programa\u00E7\u00E3o orientada a objetos\\gestao de multas\\entidades\\proprietariopj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4D04966-D3CB-494E-B6CD-31D98F7C6951}|Gestao de Multas.csproj|solutionrelative:entidades\\proprietariopj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4D04966-D3CB-494E-B6CD-31D98F7C6951}|Gestao de Multas.csproj|c:\\users\\2023202060015\\onedrive - ifro.edu.br\\3 -- periodo\\programa\u00E7\u00E3o orientada a objetos\\gestao de multas\\entidades\\proprietariopf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4D04966-D3CB-494E-B6CD-31D98F7C6951}|Gestao de Multas.csproj|solutionrelative:entidades\\proprietariopf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4D04966-D3CB-494E-B6CD-31D98F7C6951}|Gestao de Multas.csproj|c:\\users\\2023202060015\\onedrive - ifro.edu.br\\3 -- periodo\\programa\u00E7\u00E3o orientada a objetos\\gestao de multas\\entidades\\multas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4D04966-D3CB-494E-B6CD-31D98F7C6951}|Gestao de Multas.csproj|solutionrelative:entidades\\multas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4D04966-D3CB-494E-B6CD-31D98F7C6951}|Gestao de Multas.csproj|c:\\users\\2023202060015\\onedrive - ifro.edu.br\\3 -- periodo\\programa\u00E7\u00E3o orientada a objetos\\gestao de multas\\entidades\\modelos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4D04966-D3CB-494E-B6CD-31D98F7C6951}|Gestao de Multas.csproj|solutionrelative:entidades\\modelos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4D04966-D3CB-494E-B6CD-31D98F7C6951}|Gestao de Multas.csproj|c:\\users\\2023202060015\\onedrive - ifro.edu.br\\3 -- periodo\\programa\u00E7\u00E3o orientada a objetos\\gestao de multas\\entidades\\marcas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4D04966-D3CB-494E-B6CD-31D98F7C6951}|Gestao de Multas.csproj|solutionrelative:entidades\\marcas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4D04966-D3CB-494E-B6CD-31D98F7C6951}|Gestao de Multas.csproj|c:\\users\\2023202060015\\onedrive - ifro.edu.br\\3 -- periodo\\programa\u00E7\u00E3o orientada a objetos\\gestao de multas\\entidades\\infracoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4D04966-D3CB-494E-B6CD-31D98F7C6951}|Gestao de Multas.csproj|solutionrelative:entidades\\infracoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4D04966-D3CB-494E-B6CD-31D98F7C6951}|Gestao de Multas.csproj|c:\\users\\2023202060015\\onedrive - ifro.edu.br\\3 -- periodo\\programa\u00E7\u00E3o orientada a objetos\\gestao de multas\\entidades\\estados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4D04966-D3CB-494E-B6CD-31D98F7C6951}|Gestao de Multas.csproj|solutionrelative:entidades\\estados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4D04966-D3CB-494E-B6CD-31D98F7C6951}|Gestao de Multas.csproj|c:\\users\\2023202060015\\onedrive - ifro.edu.br\\3 -- periodo\\programa\u00E7\u00E3o orientada a objetos\\gestao de multas\\entidades\\cnh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4D04966-D3CB-494E-B6CD-31D98F7C6951}|Gestao de Multas.csproj|solutionrelative:entidades\\cnh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4D04966-D3CB-494E-B6CD-31D98F7C6951}|Gestao de Multas.csproj|c:\\users\\2023202060015\\onedrive - ifro.edu.br\\3 -- periodo\\programa\u00E7\u00E3o orientada a objetos\\gestao de multas\\entidades\\cidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4D04966-D3CB-494E-B6CD-31D98F7C6951}|Gestao de Multas.csproj|solutionrelative:entidades\\cidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Vistorias.cs",
+              "DocumentMoniker": "C:\\Users\\2023202060015\\OneDrive - ifro.edu.br\\3 -- Periodo\\Programa\u00E7\u00E3o orientada a objetos\\Gestao de Multas\\Entidades\\Vistorias.cs",
+              "RelativeDocumentMoniker": "Entidades\\Vistorias.cs",
+              "ToolTip": "C:\\Users\\2023202060015\\OneDrive - ifro.edu.br\\3 -- Periodo\\Programa\u00E7\u00E3o orientada a objetos\\Gestao de Multas\\Entidades\\Vistorias.cs",
+              "RelativeToolTip": "Entidades\\Vistorias.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T02:18:56.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Vistoriadores.cs",
+              "DocumentMoniker": "C:\\Users\\2023202060015\\OneDrive - ifro.edu.br\\3 -- Periodo\\Programa\u00E7\u00E3o orientada a objetos\\Gestao de Multas\\Entidades\\Vistoriadores.cs",
+              "RelativeDocumentMoniker": "Entidades\\Vistoriadores.cs",
+              "ToolTip": "C:\\Users\\2023202060015\\OneDrive - ifro.edu.br\\3 -- Periodo\\Programa\u00E7\u00E3o orientada a objetos\\Gestao de Multas\\Entidades\\Vistoriadores.cs",
+              "RelativeToolTip": "Entidades\\Vistoriadores.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T02:18:47.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProprietarioPJ.cs",
+              "DocumentMoniker": "C:\\Users\\2023202060015\\OneDrive - ifro.edu.br\\3 -- Periodo\\Programa\u00E7\u00E3o orientada a objetos\\Gestao de Multas\\Entidades\\ProprietarioPJ.cs",
+              "RelativeDocumentMoniker": "Entidades\\ProprietarioPJ.cs",
+              "ToolTip": "C:\\Users\\2023202060015\\OneDrive - ifro.edu.br\\3 -- Periodo\\Programa\u00E7\u00E3o orientada a objetos\\Gestao de Multas\\Entidades\\ProprietarioPJ.cs",
+              "RelativeToolTip": "Entidades\\ProprietarioPJ.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T02:18:14.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Multas.cs",
+              "DocumentMoniker": "C:\\Users\\2023202060015\\OneDrive - ifro.edu.br\\3 -- Periodo\\Programa\u00E7\u00E3o orientada a objetos\\Gestao de Multas\\Entidades\\Multas.cs",
+              "RelativeDocumentMoniker": "Entidades\\Multas.cs",
+              "ToolTip": "C:\\Users\\2023202060015\\OneDrive - ifro.edu.br\\3 -- Periodo\\Programa\u00E7\u00E3o orientada a objetos\\Gestao de Multas\\Entidades\\Multas.cs",
+              "RelativeToolTip": "Entidades\\Multas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T02:17:51.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Modelos.cs",
+              "DocumentMoniker": "C:\\Users\\2023202060015\\OneDrive - ifro.edu.br\\3 -- Periodo\\Programa\u00E7\u00E3o orientada a objetos\\Gestao de Multas\\Entidades\\Modelos.cs",
+              "RelativeDocumentMoniker": "Entidades\\Modelos.cs",
+              "ToolTip": "C:\\Users\\2023202060015\\OneDrive - ifro.edu.br\\3 -- Periodo\\Programa\u00E7\u00E3o orientada a objetos\\Gestao de Multas\\Entidades\\Modelos.cs",
+              "RelativeToolTip": "Entidades\\Modelos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T02:17:33.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Marcas.cs",
+              "DocumentMoniker": "C:\\Users\\2023202060015\\OneDrive - ifro.edu.br\\3 -- Periodo\\Programa\u00E7\u00E3o orientada a objetos\\Gestao de Multas\\Entidades\\Marcas.cs",
+              "RelativeDocumentMoniker": "Entidades\\Marcas.cs",
+              "ToolTip": "C:\\Users\\2023202060015\\OneDrive - ifro.edu.br\\3 -- Periodo\\Programa\u00E7\u00E3o orientada a objetos\\Gestao de Multas\\Entidades\\Marcas.cs",
+              "RelativeToolTip": "Entidades\\Marcas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T02:17:22.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Infracoes.cs",
+              "DocumentMoniker": "C:\\Users\\2023202060015\\OneDrive - ifro.edu.br\\3 -- Periodo\\Programa\u00E7\u00E3o orientada a objetos\\Gestao de Multas\\Entidades\\Infracoes.cs",
+              "RelativeDocumentMoniker": "Entidades\\Infracoes.cs",
+              "ToolTip": "C:\\Users\\2023202060015\\OneDrive - ifro.edu.br\\3 -- Periodo\\Programa\u00E7\u00E3o orientada a objetos\\Gestao de Multas\\Entidades\\Infracoes.cs",
+              "RelativeToolTip": "Entidades\\Infracoes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T02:16:52.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Estados.cs",
+              "DocumentMoniker": "C:\\Users\\2023202060015\\OneDrive - ifro.edu.br\\3 -- Periodo\\Programa\u00E7\u00E3o orientada a objetos\\Gestao de Multas\\Entidades\\Estados.cs",
+              "RelativeDocumentMoniker": "Entidades\\Estados.cs",
+              "ToolTip": "C:\\Users\\2023202060015\\OneDrive - ifro.edu.br\\3 -- Periodo\\Programa\u00E7\u00E3o orientada a objetos\\Gestao de Multas\\Entidades\\Estados.cs",
+              "RelativeToolTip": "Entidades\\Estados.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T02:16:41.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CNH.cs",
+              "DocumentMoniker": "C:\\Users\\2023202060015\\OneDrive - ifro.edu.br\\3 -- Periodo\\Programa\u00E7\u00E3o orientada a objetos\\Gestao de Multas\\Entidades\\CNH.cs",
+              "RelativeDocumentMoniker": "Entidades\\CNH.cs",
+              "ToolTip": "C:\\Users\\2023202060015\\OneDrive - ifro.edu.br\\3 -- Periodo\\Programa\u00E7\u00E3o orientada a objetos\\Gestao de Multas\\Entidades\\CNH.cs",
+              "RelativeToolTip": "Entidades\\CNH.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T02:13:39.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProprietarioPF.cs",
+              "DocumentMoniker": "C:\\Users\\2023202060015\\OneDrive - ifro.edu.br\\3 -- Periodo\\Programa\u00E7\u00E3o orientada a objetos\\Gestao de Multas\\Entidades\\ProprietarioPF.cs",
+              "RelativeDocumentMoniker": "Entidades\\ProprietarioPF.cs",
+              "ToolTip": "C:\\Users\\2023202060015\\OneDrive - ifro.edu.br\\3 -- Periodo\\Programa\u00E7\u00E3o orientada a objetos\\Gestao de Multas\\Entidades\\ProprietarioPF.cs",
+              "RelativeToolTip": "Entidades\\ProprietarioPF.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T01:27:19.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Veiculos.cs",
+              "DocumentMoniker": "C:\\Users\\2023202060015\\OneDrive - ifro.edu.br\\3 -- Periodo\\Programa\u00E7\u00E3o orientada a objetos\\Gestao de Multas\\Entidades\\Veiculos.cs",
+              "RelativeDocumentMoniker": "Entidades\\Veiculos.cs",
+              "ToolTip": "C:\\Users\\2023202060015\\OneDrive - ifro.edu.br\\3 -- Periodo\\Programa\u00E7\u00E3o orientada a objetos\\Gestao de Multas\\Entidades\\Veiculos.cs",
+              "RelativeToolTip": "Entidades\\Veiculos.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwCUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T23:36:39.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Proprietarios.cs",
+              "DocumentMoniker": "C:\\Users\\2023202060015\\OneDrive - ifro.edu.br\\3 -- Periodo\\Programa\u00E7\u00E3o orientada a objetos\\Gestao de Multas\\Entidades\\Proprietarios.cs",
+              "RelativeDocumentMoniker": "Entidades\\Proprietarios.cs",
+              "ToolTip": "C:\\Users\\2023202060015\\OneDrive - ifro.edu.br\\3 -- Periodo\\Programa\u00E7\u00E3o orientada a objetos\\Gestao de Multas\\Entidades\\Proprietarios.cs",
+              "RelativeToolTip": "Entidades\\Proprietarios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T00:24:04.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\2023202060015\\OneDrive - ifro.edu.br\\3 -- Periodo\\Programa\u00E7\u00E3o orientada a objetos\\Gestao de Multas\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\2023202060015\\OneDrive - ifro.edu.br\\3 -- Periodo\\Programa\u00E7\u00E3o orientada a objetos\\Gestao de Multas\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T23:25:00.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Cidades.cs",
+              "DocumentMoniker": "C:\\Users\\2023202060015\\OneDrive - ifro.edu.br\\3 -- Periodo\\Programa\u00E7\u00E3o orientada a objetos\\Gestao de Multas\\Entidades\\Cidades.cs",
+              "RelativeDocumentMoniker": "Entidades\\Cidades.cs",
+              "ToolTip": "C:\\Users\\2023202060015\\OneDrive - ifro.edu.br\\3 -- Periodo\\Programa\u00E7\u00E3o orientada a objetos\\Gestao de Multas\\Entidades\\Cidades.cs",
+              "RelativeToolTip": "Entidades\\Cidades.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T02:12:58.528Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
